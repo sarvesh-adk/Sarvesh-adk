@@ -1,11 +1,15 @@
-<svg>
-      <style>
-        @media (prefers-color-scheme: dark) {
-          .light { display: none; }
-          .dark { display: block; }
-        }
-        @media (prefers-color-scheme: light) {
-          .light { display: block; }
-          .dark { display: none; }
-        }
-      </style> role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Figma icon</title><path d="M12 12a4 4 0 1 1 8 0 4 4 0 0 1-8 0zM4 20a4 4 0 0 1 4-4h4v4a4 4 0 1 1-8 0zM12 0v8h4a4 4 0 1 0 0-8h-4zM4 4a4 4 0 0 0 4 4h4V0H8a4 4 0 0 0-4 4zM4 12a4 4 0 0 0 4 4h4V8H8a4 4 0 0 0-4 4z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24">
+  <title>Instagram icon</title>
+  <style>
+    @media (prefers-color-scheme: dark) {
+      .light { display: none; }
+      .dark { display: block; }
+    }
+    @media (prefers-color-scheme: light) {
+      .light { display: block; }
+      .dark { display: none; }
+    }
+  </style>
+  <path class="light" d="M20 0H4C1.8 0 0 1.8 0 4v16c0 2.2 1.8 4 4 4h16c2.2 0 4-1.8 4-4V4c0-2.2-1.8-4-4-4zm-8 18c-3.3 0-6-2.7-6-6s2.7-6 6-6 6 2.7 6 6-2.7 6-6 6zm8-10.5c-.8 0-1.5-.7-1.5-1.5S19.2 5 20 5s1.5.7 1.5 1.5S20.8 7.5 20 7.5z" fill="#000"/>
+  <path class="dark" d="M20 0H4C1.8 0 0 1.8 0 4v16c0 2.2 1.8 4 4 4h16c2.2 0 4-1.8 4-4V4c0-2.2-1.8-4-4-4zm-8 18c-3.3 0-6-2.7-6-6s2.7-6 6-6 6 2.7 6 6-2.7 6-6 6zm8-10.5c-.8 0-1.5-.7-1.5-1.5S19.2 5 20 5s1.5.7 1.5 1.5S20.8 7.5 20 7.5z" fill="#fff"/>
+</svg>
