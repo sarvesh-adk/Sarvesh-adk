@@ -10,6 +10,6 @@
       .dark { display: none; }
     }
   </style>
-  <path class="light" d="M1.5 0h21l-1.91 21.6L12 24l-8.59-2.4L1.5 0z" fill="#E34F26"/>
+  <path class="light" d="M1.5 0h21l-1.91 21.6L12 24l-8.59-2.4L1.5 0z" fill="#000000"/>
   <path class="dark" d="M1.5 0h21l-1.91 21.6L12 24l-8.59-2.4L1.5 0z" fill="#ffffff"/>
 </svg>
