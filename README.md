@@ -32,7 +32,7 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="assets/linux.svg" alt="linux" width="40" height="30"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="assets/mysql.svg" alt="mysql" width="40" height="30"/> </a>
   
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="assets/icons/photoshop.svg" alt="photoshop" width="40" height="30"/> </a> 
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="assets/photoshop.svg" alt="photoshop" width="40" height="30"/> </a> 
 <a href="https://www.adobe.com/en" target="_blank" rel="noreferrer"> <img src="assets/premierepro.svg" alt="premiere pro" width="40" height="30"/> </a> 
 <a href="https://www.adobe.com/en" target="_blank" rel="noreferrer"> <img src="assets/lightroom.svg" alt="lightroom" width="40" height="30"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="assets/figma.svg" alt="figma" width="40" height="30"/> </a>
