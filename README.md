@@ -1,5 +1,3 @@
- **This page is under Maintenance and will be updated soon!**
- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarvesh-adk&label=Profile%20views&color=2c2c2a&style=button" alt="sarvesh-adk" /> </p>
 
 - - Learning  **Data Structures and Algorithms (DSA)**
